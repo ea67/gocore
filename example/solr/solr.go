@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/sunmi-OS/gocore/solr"
+	"github.com/ea67/gocore/solr"
 )
 
 func main() {

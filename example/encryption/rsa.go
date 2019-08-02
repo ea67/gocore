@@ -4,7 +4,7 @@ import (
 	"errors"
 	"log"
 
-	"github.com/sunmi-OS/gocore/encryption/gorsa"
+	"github.com/ea67/gocore/encryption/gorsa"
 )
 
 var Pubkey = `-----BEGIN 公钥-----

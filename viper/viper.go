@@ -8,7 +8,7 @@ import (
 
 	"github.com/spf13/cast"
 	"github.com/spf13/viper"
-	"github.com/sunmi-OS/gocore/utils"
+	"github.com/ea67/gocore/utils"
 )
 
 type Viper struct {

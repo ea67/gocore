@@ -7,8 +7,8 @@ import (
 	"git.apache.org/thrift.git/lib/go/thrift"
 	"github.com/jolestar/go-commons-pool"
 	"github.com/spf13/cast"
-	"github.com/sunmi-OS/gocore/utils"
-	"github.com/sunmi-OS/gocore/viper"
+	"github.com/ea67/gocore/utils"
+	"github.com/ea67/gocore/viper"
 	"strings"
 )
 

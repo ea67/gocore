@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/sunmi-OS/gocore/redis"
-	"github.com/sunmi-OS/gocore/viper"
+	"github.com/ea67/gocore/redis"
+	"github.com/ea67/gocore/viper"
 )
 
 func main() {

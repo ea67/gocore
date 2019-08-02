@@ -8,7 +8,7 @@ import (
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 	_ "github.com/jinzhu/gorm/dialects/postgres"
-	"github.com/sunmi-OS/gocore/viper"
+	"github.com/ea67/gocore/viper"
 )
 
 var Gorm sync.Map

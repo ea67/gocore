@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/sunmi-OS/gocore/httplib"
+	"github.com/ea67/gocore/httplib"
 )
 
 func main() {

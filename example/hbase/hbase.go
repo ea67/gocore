@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/sunmi-OS/gocore/hbase"
-	"github.com/sunmi-OS/gocore/log"
-	"github.com/sunmi-OS/gocore/viper"
+	"github.com/ea67/gocore/hbase"
+	"github.com/ea67/gocore/log"
+	"github.com/ea67/gocore/viper"
 	"go.uber.org/zap"
 	"os"
 )

@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
-	"github.com/sunmi-OS/gocore/api"
+	"github.com/ea67/gocore/api"
 	"github.com/urfave/cli"
 	"os"
 	"sort"

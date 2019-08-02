@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/sunmi-OS/gocore/encryption/aes"
+	"github.com/ea67/gocore/encryption/aes"
 )
 
 func main() {

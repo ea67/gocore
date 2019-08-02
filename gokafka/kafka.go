@@ -4,7 +4,7 @@ import (
 	"context"
 	"github.com/segmentio/kafka-go"
 	"github.com/segmentio/kafka-go/snappy"
-	"github.com/sunmi-OS/gocore/viper"
+	"github.com/ea67/gocore/viper"
 	"sync"
 	"time"
 	"fmt"

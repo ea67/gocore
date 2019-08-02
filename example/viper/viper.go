@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/sunmi-OS/gocore/viper"
+	"github.com/ea67/gocore/viper"
 )
 
 func main() {

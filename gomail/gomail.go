@@ -2,7 +2,7 @@ package gomail
 
 import (
 	"github.com/go-gomail/gomail"
-	"github.com/sunmi-OS/gocore/viper"
+	"github.com/ea67/gocore/viper"
 )
 
 var mail *gomail.Dialer

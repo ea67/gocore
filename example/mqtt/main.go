@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/sunmi-OS/gocore/mqtt"
+	"github.com/ea67/gocore/mqtt"
 )
 
 func main() {

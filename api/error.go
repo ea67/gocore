@@ -3,7 +3,7 @@ package api
 import (
 	"github.com/labstack/echo"
 	"github.com/spf13/cast"
-	"github.com/sunmi-OS/gocore/log"
+	"github.com/ea67/gocore/log"
 	"go.uber.org/zap"
 )
 

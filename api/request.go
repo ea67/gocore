@@ -19,9 +19,9 @@ import (
 	"io/ioutil"
 
 	"github.com/labstack/echo"
-	"github.com/sunmi-OS/gocore/api/validation"
-	"github.com/sunmi-OS/gocore/encryption/des"
-	"github.com/sunmi-OS/gocore/viper"
+	"github.com/ea67/gocore/api/validation"
+	"github.com/ea67/gocore/encryption/des"
+	"github.com/ea67/gocore/viper"
 	"github.com/tidwall/gjson"
 )
 

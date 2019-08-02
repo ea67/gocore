@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/sunmi-OS/gocore/utils"
-	"github.com/sunmi-OS/gocore/viper"
+	"github.com/ea67/gocore/utils"
+	"github.com/ea67/gocore/viper"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

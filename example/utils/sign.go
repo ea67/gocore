@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/sunmi-OS/gocore/utils"
+	"github.com/ea67/gocore/utils"
 )
 
 func main() {
